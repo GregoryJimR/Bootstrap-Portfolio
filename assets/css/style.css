@@ -1,0 +1,60 @@
+.navbar-header {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  background: #4aaaa5;
+  color: #fff;
+  padding: 10px;
+  border: 2px outset lightgrey;
+}
+h1 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 24px;
+  color: #4aaaa5;
+}
+h3 {
+  padding-bottom: 20px;
+  margin-bottom: 15px;
+  line-height: 22px;
+  border-bottom: 2px solid #eee;
+  color: #fff;
+  background: #4aaaa5;
+  text-align: center;
+}
+.section {
+    margin: 20px;
+    border: 2px solid;
+    background: #fff;
+}
+.footer {
+    clear: both;
+    border-top: 8px outset #4aaaa5;
+    text-align: center;
+    background: #ccc;
+    height: 108px;
+    line-height: 100px;
+    width: 100%;
+}
+body {
+    height: 100%;
+    width: 100%;
+    background: url('../images/purty_wood_@2X.png');
+}
+.btn {
+    background: #4aaaa5;
+    color: #fff;
+    margin: 10px 0;
+}
+.col-md-4,
+.col-md-8 {
+    background: #fff;
+    padding: 10px 15px;
+    border: 2px outset lightgrey;
+}
+
+@media screen and (max-width: 980px) {
+
+@media screen and (max-width: 768px) {
+
+@media screen and (max-width: 640px) {
+
+   
